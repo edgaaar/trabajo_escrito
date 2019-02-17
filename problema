@@ -1,0 +1,61 @@
+En el área de investigación de un hospital al sur de la Ciudad de
+México, los médicos especialistas tienen la necesidad de registrar los
+datos correspondientes a los pacientes que asisten a consulta. Esta
+actividad de registraba de dos maneras:
+
+Primero a mano, los médicos debían llenar formatos que solicitan una
+numerosa cantidad de variables, tanto sociodemográficas como propias del
+caso. Se tienen que registrar aproximadamente, por cada paciente, 40
+campos en los que se describe con detalle la situación médica de la
+persona.
+
+En segundo lugar los médicos tenían que llenar un formato de una hoja de
+cálculo donde registraban exactamente los mismos datos que ya habían
+escrito anteriormente en los formatos físicos.
+
+También es necesario guardar imágenes y videos de cada paciente pues así
+los médicos tienen un panorama de antecedentes específicos y objetivos.
+Para ello hacían uso de una estructura de directorios dentro de un
+sistema de archivos. Todas las herramientas electrónicas funcionaban
+sobre el sistema operativo Windows en una computadora localizada en la
+oficina de la coordinación. Si alguien tenía la necesidad de consultar
+algún registro o crear uno nuevo debía de asistir al lugar, solicitar
+los formatos impresos y pedir prestada la computadora.
+
+Manejar la información siguiendo los procedimientos y usando las
+herramientas anteriormente descritas ha causado múltiples conflictos,
+los cuales han impactado de distintas maneras los resultados del trabajo
+que los médicos realizan todos los días. Uno de ellos es la
+inconsistencia de datos, ya que es muy común que algún doctor cometa
+errores tipográficos, que los datos capturados en papel no siempre
+coincidan del todo con los descritos en la hoja de cálculo o, incluso,
+que se deje vacío algún campo requerido para actividades posteriores.
+
+Una de las actividades importantes del servicio de investigación es la
+elaboración de artículos académicos en donde se dan a conocer avances en
+las hipótesis de casos relevantes en cuanto a distintas patologías, para
+ello se requiere consultar datos sobre la evolución de los pacientes con
+determinado diagnóstico o situación sociodemográfica.
+
+Para ello, anteriormente lo que se realizaba era disponer de dos o tres
+médicos residentes para que buscaran a mano entre una serie de hojas con
+los datos de todos los pacientes y de ellos extrajeran las que contenían
+los datos de interés para el reporte. Esto requería de varias horas de
+trabajo de búsqueda minuciosa y muy susceptible a fallas humanas como la
+omisión de una hoja de interés o la inclusión de algún paciente que no
+cumpla con los filtros requeridos.
+
+Estos problemas derivaban en diversas situaciones como la poca
+confiabilidad en los datos recabados en distintas búsquedas y en la
+ineficiencia dentro de los procedimientos de registro y recuperación de
+los datos, esto a la vez se puede traducir en un trabajo de
+investigación de menor calidad ya que impacta directamente en los
+resultados que los médicos llegan a alcanzar.
+
+A lo largo de esta tesis se mostrará el proceso de construcción de una
+solución web que resolverá de manera significativa estos problemas. En
+dicho software se tendrá la posibilidad de registrar pacientes y
+asociarlos con todos los datos de interés para el departamento como son
+los parámetros clínicos y radiográficos, la evolución que han mostrado
+en cada una de las consultas y las imágenes y videos que fueron tomados
+para documentar su progreso.
